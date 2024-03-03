@@ -1,0 +1,32 @@
+.elemento_a {
+    background-color: #008000;
+    width: 500px;
+    height: 500px;
+}
+
+.elemento_b {
+    background-color: #0000ff;
+    width: 30%;
+    height: 35%;
+}
+
+
+.elemento_c {
+    color: white;
+    background-color: purple;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.elemento_d {
+    width: 60%;
+    height: 20vh;
+    background-color: rgb(255, 251, 13);
+}
+
+.elemento_e {
+    width: 55vw;
+    height: 30%;
+    background-color: rgb(255, 30, 30);
+}
